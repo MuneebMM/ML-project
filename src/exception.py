@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append("D:\ML-project")
+sys.path.append("D:\ML-project\src")
 from src.logger import logging
 
 def error_message_details(error, error_detail:sys):
